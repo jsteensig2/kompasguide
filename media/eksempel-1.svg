@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 960 600" font-family="Arial, Helvetica, sans-serif">
+<rect width="960" height="600" rx="14" fill="#ffffff"/>
+<rect width="960" height="44" rx="14" fill="#eef1f3"/><rect y="30" width="960" height="14" fill="#eef1f3"/>
+<circle cx="24" cy="22" r="6" fill="#e06c5f"/><circle cx="44" cy="22" r="6" fill="#e5b84f"/><circle cx="64" cy="22" r="6" fill="#62b26b"/>
+<rect x="96" y="10" width="520" height="24" rx="12" fill="#ffffff"/><text x="112" y="27" font-size="13" fill="#5f6b73">drive.google.com</text>
+<rect x="0" y="44" width="200" height="556" fill="#f7f9fa"/>
+<text x="24" y="84" font-size="20" font-weight="bold" fill="#33424b">Drev</text>
+<rect x="20" y="104" width="110" height="42" rx="14" fill="#ffffff" stroke="#d5dde1"/><text x="44" y="131" font-size="15" fill="#33424b">+ Ny</text>
+<text x="28" y="186" font-size="14" fill="#33424b">Mit drev</text><text x="28" y="218" font-size="14" fill="#7a878f">Delt med mig</text><text x="28" y="250" font-size="14" fill="#7a878f">Seneste</text>
+<rect x="224" y="62" width="460" height="38" rx="19" fill="#eef1f3"/><text x="248" y="86" font-size="14" fill="#7a878f">Søg i Drev</text>
+<text x="224" y="140" font-size="16" font-weight="bold" fill="#33424b">Mapper</text><rect x="224" y="156" width="200" height="56" rx="10" fill="#e3f0f2" stroke="#0f6e7a" stroke-width="2"/><path d="M240 176h14l5 5h17v16h-36z" fill="#8a9aa3"/><text x="288" y="190" font-size="15" fill="#33424b">Kursusmateriale</text><rect x="440" y="156" width="200" height="56" rx="10" fill="#f4f6f7" stroke="#dde3e6" stroke-width="1"/><path d="M456 176h14l5 5h17v16h-36z" fill="#8a9aa3"/><text x="504" y="190" font-size="15" fill="#33424b">Billeder</text><rect x="656" y="156" width="200" height="56" rx="10" fill="#f4f6f7" stroke="#dde3e6" stroke-width="1"/><path d="M672 176h14l5 5h17v16h-36z" fill="#8a9aa3"/><text x="720" y="190" font-size="15" fill="#33424b">Arkiv</text><circle cx="324" cy="184" r="46" fill="none" stroke="#c8402f" stroke-width="4"/>
+</svg>

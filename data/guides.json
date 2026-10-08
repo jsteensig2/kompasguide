@@ -1,0 +1,816 @@
+{
+  "version": 1,
+  "guides": [
+    {
+      "id": "g-sht6ck",
+      "title": "Sådan kommer du i gang med Lydvandring",
+      "app": "",
+      "platform": "",
+      "intro": "Bagefter har du oprettet en konto og er i gang med at lave din første lydvandring.",
+      "keywords": "Vejledning til Lydvandring\nTrin for trin · oktober 2026\nMed Lydvandring placerer du lyd på et kort, og deltagerne hører lyden, når de går hen til stedet\nmed deres telefon. Vejledningen fører dig fra konto til færdig tur i ni trin. Appen findes på\nlydvandring.netlify.app.\nDu laver ture bedst på en iPad eller computer. Deltagerne går turen på deres telefon og skal ikke\nlogge ind.\nTrin 1: Opret en konto og log ind\nDu skal kun have en konto, hvis du vil lave ture. Deltagerne skal aldrig logge ind.\n1. Gå ind på lydvandring.netlify.app, og tryk på Log ind øverst til højre.\n2. Første gang trykker du på Ny her? Opret en konto.\n3. Skriv din e-mail og en adgangskode på mindst 8 tegn, og tryk på Opret konto.\n4. Næste gang skriver du bare e-mail og adgangskode og trykker Log ind. Har du glemt koden,\nså tryk på Glemt adgangskode.\nSiden hvor du opretter en konto\nVejledning til Lydvandring · side 1 af 15\nTrin 2: Opret en ny lydvandring\nEfter du er logget ind, lander du på Mine lydvandringer. Her ligger alle dine ture og dine klasser.\n1. Tryk på + Ny lydvandring.\nMine lydvandringer, før du har lavet en tur\n2. Panelet Om turen åbner til højre. Skriv en titel og en kort beskrivelse. Deltagerne ser begge\ndele, før de starter.\n3. Vælg Rækkefølge: Frit betyder, at deltagerne kan tage punkterne i den rækkefølge, de vil. Fast\nrækkefølge betyder, at et punkt først starter, når det forrige er hørt.\n4. Vælg, hvad der sker, når man når et nyt punkt, mens en historie spiller: Lad historien spille\nfærdig eller Stop den og spil den nye.\n5. Tryk Luk. Alt gemmes af sig selv, og der står \"Gemt kl. ...\n\" øverst.\nVejledning til Lydvandring · side 2 af 15\nOm turen med titel og beskrivelse\nTrin 3: Placér punkter på kortet\nEt punkt er et sted, hvor en historie skal kunne høres.\n1. Find området på kortet. Knib med to fingre for at zoome, og træk for at flytte kortet. Du kan\nogså bruge + og − i hjørnet.\n2. Tryk på + Tilføj punkt. Der kommer en besked: \"Tryk på kortet, hvor punktet skal være.\n\"\n3. Tryk på stedet på kortet. Punktet får et nummer, og dets indstillinger åbner til højre.\n4. Står du selv på stedet, kan du i stedet trykke Brug min position.\n5. Du kan flytte et punkt ved at trække i det på kortet.\nVejledning til Lydvandring · side 3 af 15\nKlar til at sætte et punkt\nI punktets panel giver du punktet en titel og vælger, hvor stort området skal være. Med − og + ved\nAktiveringsradius gør du cirklen mindre eller større. Historien starter, når deltageren kommer ind i\ncirklen. 25–40 meter passer de fleste steder, fordi GPS i en telefon ofte rammer 5–15 meter ved\nsiden af.\nVejledning til Lydvandring · side 4 af 15\nEt punkt med titel og radius\nTrin 4: Tilføj lyd og billede\nHvert punkt skal have en lydfil. Et billede og en kort tekst er valgfrit.\n1. Rul ned i punktets panel til Lyd, og tryk på Vælg lydfil. Vælg en MP3- eller M4A-fil på højst 50\nMB. En optagelse fra iPhonens Diktafon-app virker.\n2. Når lyden er lagt op, kan du afspille den direkte i panelet. Med Skift lyd og Fjern lyd kan du\nrette den.\n3. Under Beskrivelse kan du skrive en kort tekst, som deltagerne ser, mens historien spiller.\n4. Under Billede trykker du på Vælg billede. Billedet bliver gjort mindre automatisk, og\noplysninger om hvor og hvornår det er taget, fjernes.\nVejledning til Lydvandring · side 5 af 15\nEt punkt med lyd og billede\nI punktlisten til venstre står der Mangler lyd ved punkter uden lyd. Så kan du hurtigt se, hvad der\nmangler.\nTrin 5: Vælg form og lydvalg\nUnder Hvor skal historien kunne høres? vælger du formen på punktet:\nForm Bruges til Sådan gør du\nCirkel Område Rute Et bestemt sted, fx en bygning En plads, en park eller en sø En sti eller vej, man går langs Justér radius med − og +\nTræk i de hvide hjørner. Tryk på + for at tilføje et hjørne\nTræk i punkterne langs ruten, og vælg bredden\nVejledning til Lydvandring · side 6 af 15\nEt område med hjørner, der kan trækkes\nUnder Lyden kan du sætte to flueben:\nGentag lyden, mens man er her: til baggrundslyd, fx fuglesang på et torv. Lyden stopper, når\nman går væk.\nmidten.\nHøjere mod midten: lyden er svag ved kanten og bliver kraftigere, jo tættere man kommer på\nNår du er færdig med et punkt, trykker du Alle punkter for at komme tilbage til listen. Med pilene\n▲ og ▼ i listen ændrer du rækkefølgen. Med Skjul liste får kortet mere plads.\nVejledning til Lydvandring · side 7 af 15\nTre punkter på kortet og i listen\nTrin 6: Test turen\nDu kan prøve turen af, uden at gå ud.\n1. Tryk på ▶ Test turen.\n2. Vælg Prøve-person på kortet, og tryk Start test. Skru op for lyden.\n3. Træk den blå prik hen til et punkt, eller tryk på punktet. Historien starter, når prikken kommer\nind i cirklen, og du kan se og høre det i panelet til højre.\n4. Er du ude på stedet, kan du i stedet vælge Mig selv med GPS (udenfor).\n5. Tryk Afslut test, når du er færdig.\nVejledning til Lydvandring · side 8 af 15\nTesten spiller historien ved Kirken\nTrin 7: Del turen\nNår turen er klar, deler du den. Før det kan ingen andre se den.\n1. Tryk på Del turen øverst til højre.\n2. Tryk på den grønne knap Del turen i panelet. Husk, at du skal have ret til at bruge lyd og\nbilleder, og at genkendelige personer skal have sagt ja.\n3. Nu får du et link, en kode på 7 tegn og en QR-kode. Deltagerne kan scanne QR-koden, åbne\nlinket eller skrive koden på forsiden.\n4. Med Vis stor QR-kode kan du vise koden på en skærm eller printe den.\nVejledning til Lydvandring · side 9 af 15\nTuren er delt med link, kode og QR-kode\nHvis du retter i turen bagefter, ser deltagerne ikke rettelserne, før du trykker på Opdatér elevernes\nudgave. Med Deaktivér turen lukker du for turen igen.\nTrin 8: Sådan går deltagerne turen\nDeltagerne bruger deres egen telefon og skal ikke logge ind. Deres position bliver på telefonen og\nsendes ikke til nogen.\n1. De scanner QR-koden med kameraet, åbner linket eller skriver turens kode på forsiden.\n2. De ser turens titel, beskrivelse og gode råd. Med Hent lyden gemmer de lyden på telefonen, så\nturen virker uden mobildækning.\n3. De trykker Start turen og Tillad, når telefonen spørger om deres position.\nVejledning til Lydvandring · side 10 af 15\nTurens forside på telefonen\n4. Appen viser det næste punkt, og hvor langt der er. Den blå prik er deltageren.\n5. Når deltageren når et punkt, starter historien af sig selv. Billede og tekst vises samtidig. Starter\nlyden ikke, kan de trykke på afspil-knappen.\nVejledning til Lydvandring · side 11 af 15\n6. Med Lommetilstand bliver skærmen mørk, og telefonen kan ligge i lommen, mens turen kører\nvidere. Tilbage til turen viser kortet igen.\n7. Lukker de appen undervejs, husker telefonen, hvilke punkter de har hørt. De trykker Fortsæt\nturen for at gå videre.\nVejledning til Lydvandring · side 12 af 15\nLommetilstand med mørk skærm\nTrin 9: Lad eleverne lave ture med en klassekode\nEleverne kan selv lave ture uden e-mail og adgangskode. De bruger en klassekode, som du laver.\nDet gør du som lærer:\n1. På Mine lydvandringer skriver du klassens navn, fx \"5.B\"\n, under Mine klasser og trykker + Ny\nklasse.\n2. Tryk på klassen. Klassekoden på 6 tegn står med store bogstaver øverst. Vis den til eleverne.\n3. Når alle er med, kan du fjerne fluebenet ved Åben for nye elever. Med Lav en ny kode får\nklassen en ny kode, og den gamle holder op med at virke.\n4. Nederst på siden ser du klassens ture og elever. Kun du kan dele en klassetur med andre.\nVejledning til Lydvandring · side 13 af 15\nKlassens side med klassekoden\nDet gør eleverne:\n1. De går ind på lydvandring.netlify.app og trykker Kom i gang med klassekode.\n2. De skriver klassekoden og deres fornavn og trykker Kom i gang.\n3. Nu kan de trykke + Ny lydvandring og lave en tur, ligesom i trin 2 til 6.\nVejledning til Lydvandring · side 14 af 15\nEleven skriver klassekode og fornavn\nGode råd\nGå turen selv først med \"Mig selv med GPS\" i testen. Så opdager du, om en cirkel ligger\nforkert.\nHold afstand mellem punkterne, gerne 50 meter eller mere, så historierne ikke starter oven i\nhinanden.\nHold historierne korte, 1 til 3 minutter, så deltagerne bliver ved med at gå.\nBed deltagerne hente lyden på skolens wifi, før I går ud.\nSer du en gammel udgave af appen, så genindlæs siden. På en Mac i Safari: Cmd + Option +\nR.\nVejledning til Lydvandring · side 15 af 15",
+      "updated": "2026-10-08",
+      "steps": [
+        {
+          "id": "s-gve0kn",
+          "title": "Gå til Log ind",
+          "text": "Åbn forsiden af Lydvandring. Tryk på \"Log ind\" øverst til højre for at komme videre til oprettelsen af din konto.",
+          "tip": "Feltet \"Turens kode\" er kun til deltagere, der skal gå en tur. Du skal ikke bruge det, når du selv skal lave en tur.",
+          "media": {
+            "type": "image",
+            "src": "media/g-sht6ck-s-gve0kn-3alusl.jpg",
+            "alt": "Forsiden af Lydvandring med en tegning af en person med rygsæk på en sti i landskabet, overskriften \"Giv stedet en stemme\" og et felt til turens kode."
+          }
+        },
+        {
+          "id": "s-rchxt3",
+          "title": "Opret en konto",
+          "text": "Skriv din e-mail, og vælg en adgangskode på mindst 8 tegn. Tryk derefter på \"Opret konto\".",
+          "tip": "Tryk på \"Vis\" for at tjekke, at du har skrevet adgangskoden rigtigt. Er du elev med en klassekode, skal du i stedet trykke på \"Kom i gang med klassekode\".",
+          "media": {
+            "type": "image",
+            "src": "media/g-sht6ck-s-rchxt3-n4yz2y.jpg",
+            "alt": "Siden \"Opret en konto\" med felter til e-mail og adgangskode, knappen \"Opret konto\" og links til log ind og klassekode."
+          }
+        },
+        {
+          "id": "s-g8n5z4",
+          "title": "Start en ny lydvandring",
+          "text": "Du er nu på siden \"Mine lydvandringer\". Tryk på \"+ Ny lydvandring\" øverst til højre.",
+          "tip": "Vil du også bruge Lydvandring sammen med elever, kan du under \"Mine klasser\" skrive et navn og trykke på \"+ Ny klasse\".",
+          "media": {
+            "type": "image",
+            "src": "media/g-sht6ck-s-g8n5z4-dh5k3g.jpg",
+            "alt": "Oversigten \"Mine lydvandringer\" uden nogen ture endnu, knappen \"+ Ny lydvandring\" og afsnittet \"Mine klasser\" med et felt til klassens navn."
+          }
+        },
+        {
+          "id": "s-qmiox8",
+          "title": "Udfyld Om turen",
+          "text": "Skriv en titel og en beskrivelse af turen i panelet \"Om turen\". Vælg under \"Rækkefølge\", om punkterne skal tages \"Frit\" eller i \"Fast rækkefølge\".",
+          "tip": "Beskrivelsen vises for deltagerne, før de starter turen. Skriv derfor gerne, hvad de skal have med.",
+          "media": {
+            "type": "image",
+            "src": "media/g-sht6ck-s-qmiox8-7rn131.jpg",
+            "alt": "Redigeringsvisning med tom kort i midten, listen \"Punkter\" til venstre og panelet \"Om turen\" til højre med titel, beskrivelse og valg af rækkefølge."
+          }
+        },
+        {
+          "id": "s-tp4oyb",
+          "title": "Placer dit første punkt",
+          "text": "Tryk på kortet det sted, hvor punktet skal være. Hvis du fortryder, trykker du på Annullér.",
+          "tip": "Hvis du ikke kan placere et punkt, så tryk først på \"+ Tilføj punkt\" og derefter på kortet.",
+          "media": {
+            "type": "image",
+            "src": "media/g-sht6ck-s-tp4oyb-8i8p4i.jpg",
+            "alt": "Kort over en landsby med en mørk bjælke, hvor der står \"Tryk på kortet, hvor punktet skal være\" og knappen Annullér. Listen Punkter er tom."
+          }
+        },
+        {
+          "id": "s-jlwndf",
+          "title": "Giv punktet titel og radius",
+          "text": "Skriv en titel i feltet Titel og vælg Cirkel under \"Hvor skal historien kunne høres?\". Indstil Aktiveringsradius med plus, minus eller skyderen, og skriv en kort tekst under Beskrivelse.",
+          "tip": "Historien starter, når deltageren kommer inden for cirklen, så vælg en radius, der passer til stedet.",
+          "media": {
+            "type": "image",
+            "src": "media/g-sht6ck-s-jlwndf-td8hpx.jpg",
+            "alt": "Kort med et punkt nummer 1 med en cirkel omkring. Til højre ses panelet for punktet \"Kirken\" med titel, valg af Cirkel, Område eller Rute, aktiveringsradius på 25 m, to afkrydsningsfelter for lyden og en beskrivelse."
+          }
+        },
+        {
+          "id": "s-w30rzq",
+          "title": "Tjek lyd og billede",
+          "text": "Under Lyd kan du afspille din optagelse eller trykke på Skift lyd eller Fjern lyd. Under Billede kan du se billedet, der hører til punktet.",
+          "tip": "Før du lægger lyd på, står der \"Mangler lyd\" ved punktet i listen.",
+          "media": {
+            "type": "image",
+            "src": "media/g-sht6ck-s-w30rzq-gx0rdh.jpg",
+            "alt": "Panelet for punktet viser beskrivelsen, en lydafspiller med en varighed på 0:29 og knapperne Skift lyd og Fjern lyd. Nedenfor er et billede af en vandrer i et landskab."
+          }
+        },
+        {
+          "id": "s-8xs7d9",
+          "title": "Lav et område til punkt 2",
+          "text": "Tryk på \"+ Tilføj punkt\", og placer et nyt punkt på kortet. Vælg Område, og træk i de hvide hjørner for at tilpasse området.",
+          "tip": "Tryk på + for at tilføje et hjørne, eller vælg et hjørne og tryk på \"Fjern det valgte hjørne\".",
+          "media": {
+            "type": "image",
+            "src": "media/g-sht6ck-s-8xs7d9-ike0ph.jpg",
+            "alt": "Kort med punkt 1 som cirkel og punkt 2 som et firkantet område med hvide hjørner. Til højre er panelet for \"Gadekæret\" med valget Område markeret og knappen \"Fjern det valgte hjørne\"."
+          }
+        },
+        {
+          "id": "s-6jaaqd",
+          "title": "Tjek alle punkter",
+          "text": "Se listen under Punkter og kontrollér, at alle 3 punkter er med i den rigtige rækkefølge. Tryk på \"Test turen\", når du er klar.",
+          "tip": "Rækkefølgen kan ændres med pilene ved hvert punkt.",
+          "media": {
+            "type": "image",
+            "src": "media/g-sht6ck-s-6jaaqd-5cuqny.jpg",
+            "alt": "Kort med tre punkter: Kirken (1), Gadekæret (2) som område og Den gamle skole (3). Punktlisten står til venstre, og knappen Test turen er øverst på kortet."
+          }
+        },
+        {
+          "id": "s-znkoi1",
+          "title": "Start testen",
+          "text": "Vælg \"Prøve-person på kortet\" under \"Hvem skal gå turen?\". Tryk derefter på \"Start test\".",
+          "tip": "Skru op for lyden, før du starter, ellers hører du ikke historien.",
+          "media": {
+            "type": "image",
+            "src": "media/g-sht6ck-s-znkoi1-14n95p.jpg",
+            "alt": "Panelet Test turen med to valg: Prøve-person på kortet og Mig selv med GPS (udenfor). Knapperne Start test og Annullér ses nederst."
+          }
+        },
+        {
+          "id": "s-q6w5as",
+          "title": "Prøv afspilleren",
+          "text": "Træk den blå prik ind i cirklen om et punkt, eller tryk på kortet, hvor prikken skal gå hen. Lyden starter, og du kan bruge \"Pause\" eller trykke på \"Afslut test\", når du er færdig.",
+          "tip": "Lyden starter først, når prikken er inde i cirklen.",
+          "media": {
+            "type": "image",
+            "src": "media/g-sht6ck-s-q6w5as-wm1bhb.jpg",
+            "alt": "Testtilstand med en blå prik inde i cirklen om punkt 1, Kirken. Til højre afspilles lyden med en tidslinje og knappen Pause, og under den ses listen Punkter i testen med afstande."
+          }
+        },
+        {
+          "id": "s-javrz6",
+          "title": "Del turen",
+          "text": "Tryk på \"Del turen\" for at give eleverne adgang til turen. Læs huskereglen om lyd og billeder, og tryk på \"Luk\", hvis du vil vente.",
+          "tip": "Du kan rette i turen bagefter, men eleverne får først ændringerne, når du opdaterer.",
+          "media": {
+            "type": "image",
+            "src": "media/g-sht6ck-s-javrz6-wn3rvz.jpg",
+            "alt": "Panelet Del turen med eleverne viser, at turen endnu ikke er delt. Der er en stor knap Del turen, en huskeregel om rettigheder og en knap Luk."
+          }
+        },
+        {
+          "id": "s-fw60u1",
+          "title": "Del turen med QR-koden",
+          "text": "Tryk på Kopiér link, eller lad eleverne scanne QR-koden. Du kan også give dem koden, så de skriver den ind på lydvandring.netlify.app.",
+          "tip": "Eleverne skal ikke logge ind. Tryk på Vis stor QR-kode, hvis eleverne har svært ved at scanne den.",
+          "media": {
+            "type": "image",
+            "src": "media/g-sht6ck-s-fw60u1-k9mzq0.jpg",
+            "alt": "Skærmen Del turen med eleverne med et link til eleverne, en kode, knapperne Kopiér link og Åbn som elev samt en QR-kode. Til venstre ses listen med tre punkter og et kort."
+          }
+        },
+        {
+          "id": "s-ksvsep",
+          "title": "Se introen som deltager",
+          "text": "Læs punkterne under Før du går. Sæt høretelefoner på, og skru op for lyden.",
+          "tip": "Hent lyden, mens du har wifi, så turen virker uden mobildækning.",
+          "media": {
+            "type": "image",
+            "src": "media/g-sht6ck-s-ksvsep-10x5zs.jpg",
+            "alt": "Deltagerens startside for Historier fra landsbyen med antal punkter, en kort beskrivelse og en liste med råd under Før du går. Nedenunder står afsnittet Uden net."
+          }
+        },
+        {
+          "id": "s-ocj17m",
+          "title": "Gå hen til næste punkt",
+          "text": "Følg kortet og afstanden til punktet, der står under Gå hen til. Historien starter af sig selv, når du er fremme.",
+          "tip": "Husk at trykke \"Tillad\", når telefonen spørger om din position. Ellers kan appen ikke se, hvor du er.",
+          "media": {
+            "type": "image",
+            "src": "media/g-sht6ck-s-ocj17m-rbz82g.jpg",
+            "alt": "Deltagerens skærm med et kort med tre nummererede punkter og en blå prik for deltagerens position. Under kortet står, at Den gamle skole er 128 m væk, og at historien starter af sig selv."
+          }
+        },
+        {
+          "id": "s-ww8o0l",
+          "title": "Lyt til historien",
+          "text": "Lyt til historien, når den spiller. Tryk på Pause, hvis du vil stoppe lyden et øjeblik.",
+          "tip": "",
+          "media": {
+            "type": "image",
+            "src": "media/g-sht6ck-s-ww8o0l-y6ol6j.jpg",
+            "alt": "Deltagerens skærm med teksten Spiller nu og punktet Kirken. Der er en kort tekst, en statuslinje for lyden, knappen Pause og en illustration af en person med høretelefoner."
+          }
+        },
+        {
+          "id": "s-x5v4zf",
+          "title": "Brug lommetilstand",
+          "text": "Skærmen er mørk, men turen kører videre, mens du går. Læg telefonen i lommen, og tryk på 'Tilbage til turen', når du vil se turen igen.",
+          "tip": "Tryk ikke på pausesymbolet, hvis du vil have lyden til at fortsætte.",
+          "media": {
+            "type": "image",
+            "src": "media/g-sht6ck-s-x5v4zf-b6hmb1.jpg",
+            "alt": "Sort skærm med teksten 'Spiller nu' og punktets titel 'Kirken'. Under den er en cirkulær pauseknap, og nederst er knappen 'Tilbage til turen'."
+          }
+        },
+        {
+          "id": "s-zr6rmt",
+          "title": "Lav en ny klasse",
+          "text": "Skriv klassens navn i feltet 'Klassens navn', fx 5.B. Tryk derefter på '+ Ny klasse'.",
+          "tip": "",
+          "media": {
+            "type": "image",
+            "src": "media/g-sht6ck-s-zr6rmt-sdligf.jpg",
+            "alt": "Siden 'Mine lydvandringer' med en publiceret tur og afsnittet 'Mine klasser'. Feltet 'Klassens navn' er udfyldt, og knappen '+ Ny klasse' står ved siden af."
+          }
+        },
+        {
+          "id": "s-di9swd",
+          "title": "Find klassekoden",
+          "text": "På klassens side finder du klassekoden i den grønne boks. Giv koden til eleverne, og lad dem gå ind på adressen, der står under koden.",
+          "tip": "Fjern fluebenet ved 'Åben for nye elever', når alle er kommet med. Hvis du trykker på 'Lav en ny kode', holder den gamle kode op med at virke.",
+          "media": {
+            "type": "image",
+            "src": "media/g-sht6ck-s-di9swd-agssfl.jpg",
+            "alt": "Klassens side med en stor klassekode i en grøn boks, afkrydsningsfeltet 'Åben for nye elever' og knappen 'Lav en ny kode'. Nedenfor er knappen '+ Ny lydvandring i klassen' og afsnittet 'Elever'."
+          }
+        },
+        {
+          "id": "s-dwubzb",
+          "title": "Log ind som elev",
+          "text": "Eleven skriver klassekoden i feltet 'Klassekode' og sit fornavn i feltet 'Dit fornavn'. Tryk derefter på 'Kom i gang'.",
+          "tip": "Eleven skal kun bruge fornavn og klassekode, ikke e-mail eller adgangskode.",
+          "media": {
+            "type": "image",
+            "src": "media/g-sht6ck-s-dwubzb-vpru9c.jpg",
+            "alt": "Elevsiden 'Kom i gang som elev' med udfyldte felter for klassekode og fornavn. Under felterne er den grønne knap 'Kom i gang'."
+          }
+        },
+        {
+          "id": "s-xg3ykj",
+          "title": "Start en ny lydvandring som elev",
+          "text": "Du er nu logget ind som elev og ser klassens oversigt. Tryk på knappen \"+ Ny lydvandring\" for at gå i gang.",
+          "tip": "Det er normalt, at der står \"Der er ingen lydvandringer i klassen endnu.\", hvis ingen har lavet en endnu.",
+          "media": {
+            "type": "image",
+            "src": "media/g-sht6ck-s-xg3ykj-ffplci.jpg",
+            "alt": "Elevens startside i Lydvandring med overskriften \"Klassens lydvandringer\", en grøn knap \"+ Ny lydvandring\" og en tom boks med teksten om, at der ingen lydvandringer er endnu."
+          }
+        }
+      ]
+    },
+    {
+      "id": "g-mac-basis1",
+      "title": "Mac basis 1: Kom godt i gang",
+      "app": "Mac",
+      "platform": "Mac (macOS)",
+      "course": "Mac – Modul 1: Kom i gang",
+      "intro": "Du lærer skrivebordet, Docken og Finder at kende, slår højreklik til, åbner programmer med Spotlight og henter et billede og en PDF fra nettet.",
+      "updated": "2026-10-08",
+      "steps": [
+        {
+          "id": "s1",
+          "title": "Kig på skrivebordet",
+          "text": "Startskærmen hedder Skrivebordet. Nederst ligger Docken med dine programmer, og øverst ligger menulinjen.",
+          "tip": "Docken svarer til proceslinjen i Windows. Menulinjen skifter, alt efter hvilket program du bruger.",
+          "need": "Hele skærmen med skrivebordet, Docken nederst og menulinjen øverst.",
+          "media": null
+        },
+        {
+          "id": "s2",
+          "title": "Åbn Finder",
+          "text": "Klik på Finder i Docken. Det er ikonet med det blå og hvide ansigt.",
+          "tip": "Finder svarer til Stifinder i Windows. Her finder du dine filer og mapper.",
+          "need": "Docken med Finder-ikonet markeret.",
+          "media": {
+            "type": "image",
+            "src": "media/mac-finder.jpg",
+            "alt": "Et Finder-vindue"
+          }
+        },
+        {
+          "id": "s3",
+          "title": "Vælg Skrivebord",
+          "text": "Klik på Skrivebord i listen i venstre side af Finder-vinduet.",
+          "tip": "",
+          "need": "Finder-vinduet med Skrivebord markeret i sidepanelet til venstre.",
+          "media": {
+            "type": "image",
+            "src": "media/mac-skrivebord.jpg",
+            "alt": "Finder med Skrivebord markeret i venstre side"
+          }
+        },
+        {
+          "id": "s4",
+          "title": "Lav en ny mappe",
+          "text": "Klik på Arkiv i menulinjen øverst, og vælg Ny mappe.",
+          "tip": "",
+          "need": "Menuen Arkiv foldet ud med Ny mappe markeret.",
+          "media": null
+        },
+        {
+          "id": "s5",
+          "title": "Giv mappen et navn",
+          "text": "Skriv Klima og bæredygtighed, og tryk på Enter.",
+          "tip": "",
+          "need": "Den nye mappe på skrivebordet med navnet Klima og bæredygtighed.",
+          "media": null
+        },
+        {
+          "id": "s6",
+          "title": "Åbn Systemindstillinger",
+          "text": "Klik på æblet øverst til venstre, og vælg Systemindstillinger.",
+          "tip": "",
+          "need": "Æble-menuen med Systemindstillinger markeret.",
+          "media": null
+        },
+        {
+          "id": "s7",
+          "title": "Vælg Pegefelt",
+          "text": "Klik på Pegefelt i listen til venstre. Bruger du en mus, så vælg Mus i stedet.",
+          "tip": "",
+          "need": "Systemindstillinger med Pegefelt markeret i listen til venstre.",
+          "media": {
+            "type": "image",
+            "src": "media/mac-pegefelt.jpg",
+            "alt": "Systemindstillinger med Pegefelt markeret"
+          }
+        },
+        {
+          "id": "s8",
+          "title": "Slå Sekundært klik til",
+          "text": "Find Sekundært klik, og vælg Klik med to fingre.",
+          "tip": "Højreklik hedder Sekundært klik på en Mac.",
+          "need": "Pegefelt-indstillingerne med Sekundært klik og valget Klik med to fingre synligt.",
+          "media": {
+            "type": "image",
+            "src": "media/mac-sekundaert.jpg",
+            "alt": "Pegefelt-indstillinger med Sekundært klik markeret"
+          }
+        },
+        {
+          "id": "s9",
+          "title": "Prøv det på skrivebordet",
+          "text": "Gå tilbage til skrivebordet. Klik med to fingre på et tomt sted, og vælg Ny mappe.",
+          "tip": "",
+          "need": "Skrivebordet med højrekliksmenuen åben og Ny mappe markeret.",
+          "media": null
+        },
+        {
+          "id": "s10",
+          "title": "Kald mappen Materialer",
+          "text": "Skriv Materialer, og tryk på Enter.",
+          "tip": "",
+          "need": "Skrivebordet med den nye mappe Materialer.",
+          "media": null
+        },
+        {
+          "id": "s11",
+          "title": "Åbn Spotlight",
+          "text": "Tryk Command og Mellemrum på samme tid. Du kan også klikke på forstørrelsesglasset øverst til højre.",
+          "tip": "Spotlight er din hurtigste genvej til programmer og filer.",
+          "need": "Spotlight-søgefeltet åbent midt på skærmen.",
+          "media": null
+        },
+        {
+          "id": "s12",
+          "title": "Skriv Safari",
+          "text": "Skriv Safari i søgefeltet.",
+          "tip": "",
+          "need": "Spotlight med Safari skrevet og Safari vist som øverste resultat.",
+          "media": null
+        },
+        {
+          "id": "s13",
+          "title": "Tryk på Enter",
+          "text": "Tryk på Enter. Nu åbner Safari.",
+          "tip": "",
+          "need": "Safari åbent med en tom side.",
+          "media": null
+        },
+        {
+          "id": "s14",
+          "title": "Gå til Pixabay",
+          "text": "Åbn Safari, klik i adressefeltet øverst, og skriv www.pixabay.com/da. Tryk på Enter.",
+          "tip": "",
+          "need": "Safari med pixabay.com/da åbent.",
+          "media": null
+        },
+        {
+          "id": "s15",
+          "title": "Find et billede",
+          "text": "Søg efter et billede, der passer til emnet klima og bæredygtighed, og klik på det.",
+          "tip": "",
+          "need": "Pixabay med søgeresultater for klima og et billede markeret.",
+          "media": null
+        },
+        {
+          "id": "s16",
+          "title": "Hent billedet",
+          "text": "Klik på knappen Download og vælg en størrelse. Billedet bliver gemt i mappen Overførsler.",
+          "tip": "",
+          "need": "Billedsiden på Pixabay med knappen Download markeret.",
+          "media": null
+        },
+        {
+          "id": "s17",
+          "title": "Åbn en ny fane",
+          "text": "Tryk Command og T, eller klik på plusset øverst til højre i Safari.",
+          "tip": "",
+          "need": "Safari med en ny, tom fane og plus-knappen markeret.",
+          "media": null
+        },
+        {
+          "id": "s18",
+          "title": "Søg efter en PDF",
+          "text": "Skriv Klima Danmark undervisningsmateriale PDF emu i adressefeltet, og tryk på Enter.",
+          "tip": "",
+          "need": "Søgeresultaterne for søgningen med et relevant resultat markeret.",
+          "media": null
+        },
+        {
+          "id": "s19",
+          "title": "Hent PDF'en",
+          "text": "Åbn PDF'en og klik på download-knappen. Filen bliver gemt i Overførsler.",
+          "tip": "Klik på pilen øverst til højre i Safari for at se dine overførsler.",
+          "need": "En åben PDF i Safari med download-knappen markeret.",
+          "media": null
+        }
+      ],
+      "materials": []
+    },
+    {
+      "id": "g-mac-basis2",
+      "title": "Mac basis 2: Orden på filer og indstillinger",
+      "app": "Mac",
+      "platform": "Mac (macOS)",
+      "course": "Mac – Modul 1: Kom i gang",
+      "intro": "Du flytter filer i mapper, bruger Hurtigvisning og farvemærker, sletter og gendanner med Papirkurven, skifter baggrund og tager skærmbilleder.",
+      "updated": "2026-10-08",
+      "steps": [
+        {
+          "id": "s1",
+          "title": "Åbn Overførsler",
+          "text": "Åbn Finder, og klik på Overførsler i venstre side. Her ligger billedet og PDF'en, du har hentet.",
+          "tip": "",
+          "need": "Finder med Overførsler valgt og de to hentede filer synlige.",
+          "media": {
+            "type": "image",
+            "src": "media/mac-overforsler.jpg",
+            "alt": "Finder med Overførsler markeret"
+          }
+        },
+        {
+          "id": "s2",
+          "title": "Træk filerne over i mappen",
+          "text": "Træk billedet og PDF'en over i mappen Klima og bæredygtighed.",
+          "tip": "Du flytter filer ved at trække dem, ligesom i Windows.",
+          "need": "En fil, der trækkes over i mappen Klima og bæredygtighed.",
+          "media": null
+        },
+        {
+          "id": "s3",
+          "title": "Tjek mappen",
+          "text": "Åbn mappen Klima og bæredygtighed, og se, at filerne ligger der.",
+          "tip": "",
+          "need": "Mappen Klima og bæredygtighed åben med billedet og PDF'en.",
+          "media": null
+        },
+        {
+          "id": "s4",
+          "title": "Lav en mappe inde i mappen",
+          "text": "Klik på Arkiv og vælg Ny mappe. Kald den Billeder til forløb.",
+          "tip": "",
+          "need": "Mappen Klima og bæredygtighed med den nye mappe Billeder til forløb.",
+          "media": null
+        },
+        {
+          "id": "s5",
+          "title": "Flyt billedet",
+          "text": "Træk billedet over i mappen Billeder til forløb.",
+          "tip": "",
+          "need": "Billedet, der trækkes over i mappen Billeder til forløb.",
+          "media": null
+        },
+        {
+          "id": "s6",
+          "title": "Se en fil med Hurtigvisning",
+          "text": "Klik én gang på billedet, og tryk på Mellemrum. Tryk på Mellemrum igen for at lukke.",
+          "tip": "Hurtigvisning virker også på PDF'er og mange andre filer.",
+          "need": "Finder med billedet vist i Hurtigvisning.",
+          "media": null
+        },
+        {
+          "id": "s7",
+          "title": "Giv billedet en farve",
+          "text": "Højreklik på billedet, og klik på en af de farvede prikker, fx rød.",
+          "tip": "",
+          "need": "Højrekliksmenuen på billedet med de farvede prikker markeret.",
+          "media": null
+        },
+        {
+          "id": "s8",
+          "title": "Giv PDF'en en anden farve",
+          "text": "Gør det samme med PDF'en, men vælg en anden farve.",
+          "tip": "",
+          "need": "Finder med billedet og PDF'en markeret med hver sin farve.",
+          "media": null
+        },
+        {
+          "id": "s9",
+          "title": "Find Mærker i Finder",
+          "text": "Rul ned i venstre side af Finder til Mærker. Klik på en farve for at se alle filer med den farve.",
+          "tip": "Mærker er en nem måde at sortere på, fx med én farve pr. fag.",
+          "need": "Finder-sidepanelet med Mærker synligt og en farve valgt.",
+          "media": {
+            "type": "image",
+            "src": "media/mac-maerker.jpg",
+            "alt": "Finder med Mærker markeret i venstre side"
+          }
+        },
+        {
+          "id": "s10",
+          "title": "Giv farven et navn",
+          "text": "Højreklik på farven under Mærker, vælg Omdøb og skriv fx Billeder.",
+          "tip": "",
+          "need": "Højrekliksmenuen på et mærke med Omdøb markeret.",
+          "media": null
+        },
+        {
+          "id": "s11",
+          "title": "Slet mappen",
+          "text": "Klik én gang på mappen Materialer, og tryk Command og Delete (tasten med pilen til venstre). Mappen ryger i papirkurven.",
+          "tip": "",
+          "need": "Skrivebordet med mappen Materialer markeret.",
+          "media": null
+        },
+        {
+          "id": "s12",
+          "title": "Åbn Papirkurven",
+          "text": "Klik på Papirkurven yderst til højre i Docken.",
+          "tip": "",
+          "need": "Docken med Papirkurven markeret.",
+          "media": {
+            "type": "image",
+            "src": "media/mac-papirkurv.jpg",
+            "alt": "Papirkurven åbnet i Finder"
+          }
+        },
+        {
+          "id": "s13",
+          "title": "Læg mappen tilbage",
+          "text": "Højreklik på mappen Materialer, og vælg Læg tilbage. Nu ligger den igen der, hvor den lå før.",
+          "tip": "",
+          "need": "Papirkurven åben med højrekliksmenuen og Læg tilbage markeret.",
+          "media": null
+        },
+        {
+          "id": "s14",
+          "title": "Åbn Udseende",
+          "text": "Åbn Systemindstillinger, og klik på Udseende i listen til venstre.",
+          "tip": "",
+          "need": "Systemindstillinger med Udseende valgt.",
+          "media": {
+            "type": "image",
+            "src": "media/mac-udseende.jpg",
+            "alt": "Systemindstillinger med Udseende markeret"
+          }
+        },
+        {
+          "id": "s15",
+          "title": "Prøv mørk tilstand",
+          "text": "Klik på Mørk. Klik på Lys, hvis du vil tilbage.",
+          "tip": "Mørk tilstand kan være rarere for øjnene om aftenen.",
+          "need": "Udseende med valgene Lys, Mørk og Automatisk synlige.",
+          "media": {
+            "type": "image",
+            "src": "media/mac-moerk.jpg",
+            "alt": "Udseende med Mørk markeret"
+          }
+        },
+        {
+          "id": "s16",
+          "title": "Gå til Baggrund",
+          "text": "Klik på Baggrund i listen til venstre.",
+          "tip": "",
+          "need": "Systemindstillinger med Baggrund valgt.",
+          "media": {
+            "type": "image",
+            "src": "media/mac-baggrund.jpg",
+            "alt": "Systemindstillinger med Baggrund markeret"
+          }
+        },
+        {
+          "id": "s17",
+          "title": "Vælg dit eget billede",
+          "text": "Klik på Tilføj foto, og vælg et billede fra mappen Klima og bæredygtighed.",
+          "tip": "",
+          "need": "Baggrund-indstillingerne med knappen Tilføj foto markeret.",
+          "media": {
+            "type": "image",
+            "src": "media/mac-tilfoej-foto.jpg",
+            "alt": "Baggrund med Tilføj foto markeret"
+          }
+        },
+        {
+          "id": "s18",
+          "title": "Tag et skærmbillede",
+          "text": "Tryk Command, Shift og 4 på samme tid. Træk et firkantet område hen over det, du vil have med, og slip.",
+          "tip": "Command, Shift og 3 tager et billede af hele skærmen.",
+          "need": "Skærmen med det lille sigtekors og et område, der er ved at blive markeret.",
+          "media": null
+        },
+        {
+          "id": "s19",
+          "title": "Find skærmbilledet",
+          "text": "Skærmbilledet bliver gemt på skrivebordet. Dobbeltklik på det for at se det.",
+          "tip": "",
+          "need": "Skrivebordet med et nyt skærmbillede.",
+          "media": null
+        },
+        {
+          "id": "s20",
+          "title": "Åbn Kontrolcenter",
+          "text": "Klik på ikonet med de to små kontakter øverst til højre i menulinjen.",
+          "tip": "",
+          "need": "Menulinjen med Kontrolcenter-ikonet markeret.",
+          "media": null
+        },
+        {
+          "id": "s21",
+          "title": "Slå Forstyr ikke til",
+          "text": "Klik på Fokus, og vælg Forstyr ikke. Nu får du ingen beskeder, før du slår det fra igen.",
+          "tip": "Slå altid Forstyr ikke til, før du viser din skærm for klassen.",
+          "need": "Kontrolcenter med Fokus åbent og Forstyr ikke markeret.",
+          "media": null
+        }
+      ],
+      "materials": []
+    },
+    {
+      "id": "g-8e29xo",
+      "title": "Lav din første film i iMovie på iPad",
+      "app": "iMovie",
+      "platform": "iPad",
+      "intro": "Bagefter kan du oprette en film fra et helt blankt projekt, sætte klip ind, klippe dem til og gemme filmen.",
+      "keywords": ", og afslut med en feedbackrunde i gruppen: Hvordan oplevede I selv jeres samarbejde? Hvad lagde I konkret mærke til hos hinanden? Og hvad tager I med til næste gang? det skal ikke være smart film eller på anden måde de mere automatiserede funktioner. guiden skal være at oprette en film. fra et helt blankt projekt",
+      "updated": "2026-10-08",
+      "steps": [
+        {
+          "id": "s-w3ya9l",
+          "title": "Åbn iMovie og start et nyt projekt",
+          "text": "Tryk på iMovie-ikonet for at åbne appen. Tryk på knappen Start nyt projekt.",
+          "tip": "",
+          "need": "iMovie-startskærmen med fanen Projekter, hvor knappen Start nyt projekt er tydelig.",
+          "media": {
+            "type": "image",
+            "src": "media/g-8e29xo-s-w3ya9l-63aa4h.webp",
+            "alt": "Åbn iMovie og start et nyt projekt"
+          }
+        },
+        {
+          "id": "s-duc8yc",
+          "title": "Vælg Film",
+          "text": "Tryk på Film i oversigten over projekttyper. Vælg ikke Trailer eller andre færdige skabeloner.",
+          "tip": "Film giver dig en helt blank tidslinje, hvor du selv bestemmer alt.",
+          "need": "Skærmen hvor man vælger mellem Film og Trailer (eller tilsvarende), med Film synlig.",
+          "media": {
+            "type": "image",
+            "src": "media/g-8e29xo-s-duc8yc-ptr2td.webp",
+            "alt": "Vælg Film"
+          }
+        },
+        {
+          "id": "s-dtcqw6",
+          "title": "Vælg dit første klip",
+          "text": "Find et videoklip i dit bibliotek, og tryk på det for at markere det. Tryk derefter på Opret film nederst på skærmen.",
+          "tip": "Vælg kun ét klip nu. Du kan tilføje flere bagefter.",
+          "need": "Mediebrowseren med videoer fra biblioteket, ét klip markeret, og knappen Opret film synlig nederst.",
+          "media": {
+            "type": "image",
+            "src": "media/g-8e29xo-s-dtcqw6-lov3nb.webp",
+            "alt": "Vælg dit første klip"
+          }
+        },
+        {
+          "id": "s-ga20wx",
+          "title": "Se din tidslinje",
+          "text": "Nu åbner projektet med dit klip nederst på tidslinjen. Tryk på afspilningsknappen for at se klippet.",
+          "tip": "",
+          "need": "Redigeringsskærmen med fremviser øverst, tidslinjen med ét klip nederst og afspilningsknappen synlig.",
+          "media": {
+            "type": "image",
+            "src": "media/g-8e29xo-s-ga20wx-qhbhit.webp",
+            "alt": "Se din tidslinje"
+          }
+        },
+        {
+          "id": "s-m7om88",
+          "title": "Tilføj flere klip",
+          "text": "Tryk på knappen Tilføj medie (plus-ikonet), og vælg Video. Tryk på klippet, og tryk derefter på pil-ikonet (Tilføj til projekt).",
+          "tip": "Klippet kommer ind der, hvor den hvide afspilningsmarkør står.",
+          "need": "Redigeringsskærmen med mediebrowseren åben efter tryk på plus-knappen, og et klip markeret med tilføjelsesknappen synlig.",
+          "media": {
+            "type": "image",
+            "src": "media/g-8e29xo-s-m7om88-g6pxht.webp",
+            "alt": "Tilføj flere klip"
+          }
+        },
+        {
+          "id": "s-ginkyl",
+          "title": "Klip et klip til",
+          "text": "Tryk på et klip på tidslinjen, så det får gul ramme. Træk i kanten af den gule ramme for at gøre klippet kortere.",
+          "tip": "Du kan altid trække ud igen, hvis du fjerner for meget.",
+          "need": "Tidslinjen med et markeret klip (gul ramme) og håndtagene i kanten tydelige.",
+          "media": {
+            "type": "image",
+            "src": "media/g-8e29xo-s-ginkyl-svz6jo.webp",
+            "alt": "Klip et klip til"
+          }
+        },
+        {
+          "id": "s-6th95e",
+          "title": "Del et klip i to",
+          "text": "Placer den hvide afspilningsmarkør, hvor klippet skal deles. Tryk på klippet, og tryk på Opdel i værktøjslinjen.",
+          "tip": "Brug opdeling til at fjerne et stykke midt i et klip.",
+          "need": "Tidslinjen med markeret klip, afspilningsmarkøren midt i klippet og værktøjslinjen med knappen Opdel synlig.",
+          "media": null
+        },
+        {
+          "id": "s-eysevf",
+          "title": "Flyt rundt på rækkefølgen",
+          "text": "Hold fingeren på et klip, til det løfter sig. Træk det derhen, hvor du vil have det, og slip.",
+          "tip": "",
+          "need": "Tidslinjen med flere klip, hvor ét klip er løftet og trækkes til en ny plads.",
+          "media": null
+        },
+        {
+          "id": "s-mis7wk",
+          "title": "Gem og del din film",
+          "text": "Tryk på Udført øverst til venstre. Tryk på Del-knappen, og vælg for eksempel Gem video.",
+          "tip": "Din film bliver automatisk gemt i projektet, også før du deler den.",
+          "need": "Projektskærmen efter tryk på Udført med Del-knappen synlig, og derefter delingsmenuen med Gem video synlig.",
+          "media": null
+        },
+        {
+          "id": "s-nrimxa",
+          "title": "Hold feedbackrunde i gruppen",
+          "text": "Tal sammen om: Hvordan oplevede I selv jeres samarbejde? Hvad lagde I konkret mærke til hos hinanden? Og hvad tager I med til næste gang?",
+          "tip": "Lad alle komme til orde, og giv konkrete eksempler.",
+          "need": "Intet skærmbillede nødvendigt. Evt. et billede af gruppen, der ser den færdige film sammen på iPad'en.",
+          "media": null
+        }
+      ],
+      "materials": [
+        {
+          "id": "m-y0uhcb",
+          "kind": "video",
+          "title": "Sæl",
+          "note": "",
+          "src": "media/g-8e29xo-m-y0uhcb.mp4",
+          "name": "Sæl.mp4",
+          "size": 2120005
+        }
+      ]
+    },
+    {
+      "id": "g-drive-del",
+      "title": "Del en mappe i Google Drive",
+      "app": "Google Drive",
+      "platform": "Web (computer)",
+      "intro": "Eksempelguide. Når du er færdig, kan andre åbne din mappe med et link. Det tager omkring 2 minutter.",
+      "example": true,
+      "updated": "2026-10-07",
+      "steps": [
+        {
+          "id": "s1",
+          "title": "Find mappen",
+          "text": "Åbn drive.google.com og find den mappe, du vil dele. Højreklik på mappen.",
+          "tip": "Kan du ikke finde mappen? Brug søgefeltet øverst.",
+          "media": {
+            "type": "image",
+            "src": "media/eksempel-1.svg",
+            "alt": "Google Drive med mappen Kursusmateriale markeret"
+          }
+        },
+        {
+          "id": "s2",
+          "title": "Vælg Del",
+          "text": "I menuen, der dukker op, klikker du på Del.",
+          "tip": "",
+          "media": {
+            "type": "image",
+            "src": "media/eksempel-2.svg",
+            "alt": "Højrekliksmenu hvor Del er markeret"
+          }
+        },
+        {
+          "id": "s3",
+          "title": "Skriv en e-mailadresse",
+          "text": "Skriv e-mailadressen på den person, du vil dele med, og klik Send.",
+          "tip": "Du kan skrive flere adresser efter hinanden.",
+          "media": {
+            "type": "image",
+            "src": "media/eksempel-3.svg",
+            "alt": "Delingsvinduet med feltet til e-mailadresse markeret"
+          }
+        },
+        {
+          "id": "s4",
+          "title": "Eller del med et link",
+          "text": "Under Generel adgang vælger du Alle med linket. Klik derefter Kopiér link og send linket, hvor du vil.",
+          "tip": "Alle med linket kan se mappen. Del kun linket med dem, der skal have det.",
+          "media": {
+            "type": "image",
+            "src": "media/eksempel-4.svg",
+            "alt": "Delingsvinduet med Alle med linket og Kopiér link markeret"
+          }
+        }
+      ]
+    }
+  ]
+}
